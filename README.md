@@ -1,2 +1,2 @@
-# js-pactice
+# js-practice
 A code repo for JavaScript.
